@@ -2365,10 +2365,10 @@
     gatsby-link "^2.0.7"
     prop-types "^15.6.2"
 
-"@tryghost/helpers@1.1.27", "@tryghost/helpers@^1.1.27":
-  version "1.1.27"
-  resolved "https://registry.yarnpkg.com/@tryghost/helpers/-/helpers-1.1.27.tgz#4686e709971df432f08cf52db787f671ad182e3b"
-  integrity sha512-5DkGcbJHJopVk1S3zvEzPgy8WAHWysQHhUqVSL0dhfvUITcrQuwcqVERi72r/rT/gixqyb2lNBVIsSo1wevERA==
+"@tryghost/helpers@1.1.36", "@tryghost/helpers@^1.1.27":
+  version "1.1.36"
+  resolved "https://registry.yarnpkg.com/@tryghost/helpers/-/helpers-1.1.36.tgz#1bab971f9fb3de5d9cb58cf2375786fb0db9db23"
+  integrity sha512-oVA+ouENmNufXliYooi1YMhoKFql70BWoJlcVT2ISMHVK1Syjk2ro2HHBrFVu4n3fKOAnugrxA44S9rWWvYabQ==
   dependencies:
     lodash-es "^4.17.11"
 
